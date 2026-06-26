@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sharddha</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NhcXNwdGVrcW9uZjZ1dXFqdnpwZnVycTgzMTkxNjBjbWdhZDcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFsYmphOHo4Y3drbGNtMGRpOGdtamxvaXZzaG5paW1qcHpxMjhsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sharddha-Sharddha&label=Profile%20views&color=0e75b6&style=flat" alt="Sharddha-Sharddha" />
