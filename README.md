@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/data-science-concept-illustration_114360-8451.jpg?w=740" alt="Data Science Banner" width="740" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qIfNO632CR7778-4b3UoZtK8ieeZATI6FzwMGNjUtVq-9bSpZQMIPgY&s=10" alt="Data Science Banner" width="740" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sharddha</h1>
