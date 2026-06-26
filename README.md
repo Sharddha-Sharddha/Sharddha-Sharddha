@@ -1,26 +1,31 @@
-![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
+<div align="center">
+  <img src="https://img.freepik.com/free-vector/data-science-concept-illustration_114360-8451.jpg?w=740" alt="Data Science Banner" width="740" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Yourname</h1>
-<h3 align="center">Passionate Developer | JavaScript | React JS | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Sharddha</h1>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourname&label=Profile%20views&color=0e75b6&style=flat" alt="yourname" />
+  <img src="https://komarev.com/ghpvc/?username=Sharddha-Sharddha&label=Profile%20views&color=0e75b6&style=flat" alt="Sharddha-Sharddha" />
 </p>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **JavaScript, React JS, and Machine Learning with Python**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/)
-- 📫 How to reach me: **sample@gmail.com**
+- 🌱 I’m currently pursuing an **Advanced Certification in Data Science and AI** at iHub Divya Sampark, IIT Roorkee, alongside my **Master's in Computer Application (MCA)**.
+- 🔭 I am a Data Science Intern applying my skills to build practical models across classification, regression, and time-series forecasting.
+- 💡 Before pivoting into data, I spent over 3 years in the VFX industry automating workflows with **Python** and managing complex data pipelines for major global projects.
+- 🧠 My core focus areas include **Machine Learning, Deep Learning (CNN, RNN, LSTM), Computer Vision, and Data Visualization**.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sharddha-Sharddha)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharddha-7644161aa)
+- 📫 How to reach me: **sharddharocks001@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/sharddha-7644161aa" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="yourname"
+         alt="sharddha"
          height="30"
          width="40" />
   </a>
@@ -29,60 +34,75 @@
 # 🎃 Languages and Tools:
 
 <p align="left">
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"/>
-  </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
       width="40"
       height="40"/>
   </a>
-
-  <a href="https://www.microsoft.com/en/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
-      alt="ms office"
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+      alt="pandas"
       width="40"
       height="40"/>
   </a>
-
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+      alt="numpy"
+      width="40"
+      height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+      alt="tensorflow"
+      width="40"
+      height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
+      alt="jupyter"
+      width="40"
+      height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="sql"
+      width="40"
+      height="40"/>
+  </a>
+  <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg"
+      alt="maya"
+      width="40"
+      height="40"/>
+  </a>
 </p>
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=Tableau&logoColor=white)
 
 ## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharddha-Sharddha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 GitHub Stats:
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&locale=en"
-       alt="yourname" />
+       src="https://github-readme-stats.vercel.app/api?username=Sharddha-Sharddha&show_icons=true&locale=en"
+       alt="Sharddha-Sharddha" />
 </p>
 
 ## 🔥 GitHub Streak:
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=yourname"
-       alt="yourname" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Sharddha-Sharddha"
+       alt="Sharddha-Sharddha" />
 </p>
