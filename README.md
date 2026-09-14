@@ -91,7 +91,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=Tableau&logoColor=white)
 
 ## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharddha-Sharddha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- English
+- Hindi
+
 
 ## 📈 GitHub Stats:
 <p>
